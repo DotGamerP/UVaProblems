@@ -4,3 +4,6 @@ Also, in the repo I only have the solutions. You can take a look to the problems
 
 - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1
 - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=2
+
+
+***Regarding documentation:*** When programming this kind of competitive problems, I don't do as much documentation as normally, so it's normal to not understand the code that easily...
