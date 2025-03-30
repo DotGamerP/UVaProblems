@@ -71,7 +71,7 @@ class Main {
 							if (isLate[iError]) {
 								
 								x = planB(x, isLate);
-								if (x == -1)
+								if (x == -2)
 									return false;
 								hadProblem = false;
 								break;
@@ -89,7 +89,7 @@ class Main {
 						} else {
 							
 							x = planB(x, isLate);
-							if (x == -1)
+							if (x == -2)
 								return false;
 							hadProblem = false;
 							break;
@@ -131,7 +131,7 @@ class Main {
 			
 		}
 		
-		return -1;
+		return -2;
 	}
 
 	private static void everythingToFalse(int start, int end, boolean[] arr) {
