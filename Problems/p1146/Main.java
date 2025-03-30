@@ -3,13 +3,6 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 
 class Main {
-
-	/*
-	 * private class Node {
-	 * 	int[] times = new int[2];
-	 * 	Node next;
-	 * }
-	*/
 	
 	private static int[][] times;
 	
