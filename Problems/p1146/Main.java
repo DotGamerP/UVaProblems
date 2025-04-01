@@ -1,10 +1,16 @@
-//	RESULT:
-//	>> Time limit exceeded
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
 
+/**
+ * Problem #1146
+ * 
+ * RESULT:
+ * >> Time limit exceeded
+ * 
+ * @author Pedro Reinaldo Mendes (Dot)
+ * @version 0.91
+ */
 class Main {
 	
 	private static int[][] times;
