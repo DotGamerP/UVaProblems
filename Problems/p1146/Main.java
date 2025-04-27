@@ -8,7 +8,7 @@ import java.io.IOException;
  * RESULT:
  * >> Time limit exceeded
  * 
- * @author Pedro Reinaldo Mendes (Dot)
+ * @author Pedro Reinaldo Mendes (Dot) -> Online Judge ID: 1695802
  * @version 0.91
  */
 class Main {
