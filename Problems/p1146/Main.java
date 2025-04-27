@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 
 /**
- * Problem #1146
+ * Problem #1146 - "Now or later"
  * 
  * RESULT:
  * >> Time limit exceeded
