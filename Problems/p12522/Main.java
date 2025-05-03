@@ -6,10 +6,10 @@ import java.io.IOException;
  * Problem #12522 - "The Imperial Problem"
  * 
  * RESULT:
- * >> Accepted -> Run Time: 0.330 [Submission 30352920]
+ * >> Accepted -> Run Time: 0.280 [Submission 30368876]
  * 
  * @author Pedro Reinaldo Mendes (Dot) -> Online Judge ID: 1695802
- * @version 1.0
+ * @version 1.1
  */
 public class Main {
     
@@ -74,7 +74,7 @@ public class Main {
             
         }
         
-        if (beste == 128 && bestc == 128) {
+        if (beste == 128 || bestc == 128) {
             beste = 0;
             bestc = 0;
         }
